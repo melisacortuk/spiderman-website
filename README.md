@@ -1,4 +1,5 @@
 # spiderman-website
 HTML &amp; CSS kullanarak yapmış olduğum responsive Spider-Man açılış sayfası.
-![1](https://user-images.githubusercontent.com/76431780/211632675-fe86f0dd-8a07-4b00-abb5-5e68fb501cf7.jpg)
-![2](https://user-images.githubusercontent.com/76431780/211632680-c8282de7-21a8-4e2d-98a7-135f79d4e5da.jpg)
+![1](https://user-images.githubusercontent.com/76431780/212102037-69442c86-747a-4f9e-b93e-6784fd9d1b5b.jpg)
+![2](https://user-images.githubusercontent.com/76431780/212102048-39795a9f-6576-4f07-995c-df97a218b08d.jpg)
+
